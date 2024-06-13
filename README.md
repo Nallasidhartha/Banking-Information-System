@@ -1,1 +1,1 @@
-# Banking-Information-System
+# Banking-Management-System
